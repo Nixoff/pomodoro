@@ -1,0 +1,21 @@
+.container {
+  width: 620px;
+  height: 566px;
+  background: #fff;
+}
+
+.container__separator {
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 1px;
+  margin-bottom: 40px;
+  width: 599px;
+  margin-left: 380px;
+}
+
+.container__separator--hr {
+  height: 3px;
+  background-color: white;
+  border-radius: 100px;
+  transform: translateY(-1px);
+  width: 0%;
+}
